@@ -46,5 +46,3 @@ NOTE: The Project is built on Eclipse IDE. Thus, for the Best Experience, Use Ec
 	Click on 'Add A User' To Add A User. You will be Redirected to a Page Where You Have to Enter The Name, Username and Password of the User that needs to be added.
 	Click on 'Delete A User' To Delete A User. You will be Redirected to a Page Where You Have to Enter The Username of the User that needs to be deleted.
 	Click On Logout on Top-Right Pane of the Window on Any Page After Login To Logout From The Session.
-
-7.	Sample Video Link : https://drive.google.com/open?id=1Wmb15WVYROiB3Msc-5sSy5uR60dNW0ML
